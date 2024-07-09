@@ -1,2 +1,2 @@
 # Sentient-Analysis
-Sentient Analysis with transformer
+Sentiment Analysis with Bert and Transformers
